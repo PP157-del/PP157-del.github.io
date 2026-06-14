@@ -1,1 +1,1 @@
-# PP157-del.github.io
+non aprire i file bat sono virus comunque se vuoi un virus potente comunque testalo su una virtual machine il file virus.bat eseguilo come amministratore tasto destro esegui come amministratore e clicca su sì
