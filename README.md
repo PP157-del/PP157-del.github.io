@@ -1,1 +1,1 @@
-non aprire i file bat sono virus comunque se vuoi un virus potente comunque testalo su una virtual machine il file virus.bat eseguilo come amministratore tasto destro esegui come amministratore e clicca su sì
+Don't open bat files, they are viruses. However, if you want a powerful virus, test it on a virtual machine. Run the virus.bat file as administrator. Right click on run as administrator and click yes.
